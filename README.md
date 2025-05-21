@@ -1,5 +1,7 @@
 # JKFLIPFLOP-USING-IF-ELSE
 
+Developed by:AADHITHAN B RegisterNumber: 212224040001
+
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
